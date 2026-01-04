@@ -503,3 +503,55 @@ body {
     background: rgba(255, 255, 255, 0.3);
     box-shadow: 0 20px 40px rgba(0,0,0,0.1);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* home pg css:::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+
+
+.task-img {
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px solid var(--neon-cyan);
+    transition: 0.3s;
+}
+
+.task-img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px var(--neon-cyan);
+}
