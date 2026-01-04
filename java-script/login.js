@@ -1,5 +1,5 @@
 // ________________________login
-import supabase from './config.js'
+import supabase from "./config.js";
 let loginForm = document.getElementById("loginForm");
 
 let lemail = document.getElementById("exampleInputEmail1");
