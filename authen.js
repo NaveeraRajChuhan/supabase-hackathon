@@ -1,4 +1,4 @@
-import supabase from "./java-script/config.js";
+import supabase from "./config.js";
 
 let regFrom = document.getElementById("regFrom");
 //FOR SIGNUP setup first time  go your project -> authentication -> signin/providers ->
