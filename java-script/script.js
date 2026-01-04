@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 let todos = JSON.parse(localStorage.getItem('naveera_tasks')) || [];
 const taskInput = document.getElementById('taskInput');
 const taskList = document.getElementById('taskList');
